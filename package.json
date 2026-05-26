@@ -1,0 +1,98 @@
+{
+  "name": "sylhet-online-service-website",
+  "version": "1.0.0",
+  "description": "Sylhet Online Service BD Digital Services Website - সিলেট অনলাইন সার্ভিস ডিজিটাল সেবা পোর্টাল",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "npx http-server",
+    "build": "echo 'No build needed - vanilla HTML/CSS/JS'",
+    "test": "echo 'Testing complete!'"
+  },
+  "keywords": [
+    "sylhet",
+    "online-service",
+    "digital-service",
+    "bangladesh",
+    "e-passport",
+    "birth-registration",
+    "national-id",
+    "driving-license",
+    "certificate"
+  ],
+  "author": {
+    "name": "Sylhet Online Service BD",
+    "email": "info@sylhetonlineservice.com.bd",
+    "url": "https://github.com/sylhetosbd"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sylhetosbd/service.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sylhetosbd/service/issues",
+    "email": "info@sylhetonlineservice.com.bd"
+  },
+  "homepage": "https://github.com/sylhetosbd/service#readme",
+  "contact": {
+    "phone": "01710026960",
+    "email": "info@sylhetonlineservice.com.bd",
+    "address": "Quarpara Point, VIP Road, Sylhet, Bangladesh"
+  },
+  "services": [
+    "E-Passport",
+    "Birth Registration",
+    "National ID Correction",
+    "Certificate Correction",
+    "Driving License",
+    "Customer Support"
+  ],
+  "technologies": {
+    "frontend": [
+      "HTML5",
+      "CSS3",
+      "Vanilla JavaScript",
+      "Font Awesome 6.4.0"
+    ],
+    "tools": [
+      "Git",
+      "GitHub"
+    ]
+  },
+  "features": {
+    "design": [
+      "Modern gradient design",
+      "Professional layout",
+      "Smooth animations",
+      "Beautiful hover effects"
+    ],
+    "responsive": [
+      "Desktop optimized",
+      "Tablet friendly",
+      "Mobile responsive",
+      "Hamburger menu"
+    ],
+    "functionality": [
+      "Form validation",
+      "Phone number verification",
+      "Email validation",
+      "Auto notifications",
+      "Smooth scrolling"
+    ]
+  },
+  "colors": {
+    "primary": "#6366f1",
+    "secondary": "#ec4899",
+    "accent": "#f59e0b",
+    "success": "#10b981",
+    "error": "#ef4444"
+  },
+  "codeowners": [
+    "@sylhetosbd"
+  ],
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=6.0.0"
+  }
+}
